@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    text-align: center;
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+
+#mode{
+    padding: 20px;
+    font-size: 24px;
+}
+#submitBtn{
+    padding: 20px;
+    font-size: 24px;
+}
+#pass{
+    height: 100px;
+    width: 400px;
+    background-color: aqua;
+    margin-top: 20px;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
